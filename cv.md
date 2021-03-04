@@ -10,11 +10,11 @@ An aspiring frontend developer with a great desire to develop in this area . My 
 
 ## Skills
 
-*Hard skills
-    *Basic HTML
-    *Basic CSS
-    *Basic JS
-    *Basic Git
+* Hard skills
+    * Basic HTML
+    * Basic CSS
+    * Basic JS
+    * Basic Git
 
 *Soft skills
     *Adaptability
