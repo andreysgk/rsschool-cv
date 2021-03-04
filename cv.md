@@ -16,10 +16,10 @@ An aspiring frontend developer with a great desire to develop in this area . My 
     * Basic JS
     * Basic Git
 
-*Soft skills
-    *Adaptability
-    *I can find a common language
-    *Teamwork
+* Soft skills
+    * Adaptability
+    * I can find a common language
+    * Teamwork
 
 ## Code examples   
 
